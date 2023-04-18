@@ -1,2 +1,2 @@
-# area-_rect
+# area_rect
 Area and Perimeter of rectangle
