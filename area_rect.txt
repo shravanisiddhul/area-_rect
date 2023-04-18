@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int p=34;
+    int q=12;
+    int area;
+    area=p*q;
+    cout<<"Area of Rectangle:"<<area<<endl;
+    
+    int perimeter=(2*p)+(2*q);
+    cout<<"Perimeter of Rectangle:"<<perimeter;
+    return 0;
+    
+}
